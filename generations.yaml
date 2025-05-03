@@ -1,0 +1,15 @@
+generations:
+  - name: "First Generation"
+    start_year: 1996
+    end_year: 2008
+    description: "The original Citroën Berlingo pioneered the leisure activity vehicle (LAV) segment in Europe, combining van-like practicality with car-like comfort. Available in commercial van (Berlingo Van) and passenger (Berlingo Multispace) variants, it featured a boxy, utilitarian design with sliding rear doors for easy access. Based on a modified Citroën ZX/Peugeot 306 platform, it offered front-wheel drive with various gasoline and diesel engine options, typically ranging from 1.4L to 2.0L. The interior was basic but functional, focusing on space efficiency rather than luxury. Later updates added improved safety features and equipment. This generation's innovative approach to practical, affordable family transportation influenced numerous competitors and established the Berlingo as a core model in Citroën's lineup."
+
+  - name: "Second Generation"
+    start_year: 2008
+    end_year: 2018
+    description: "The second-generation Berlingo maintained the practical approach of its predecessor but with more modern styling, improved refinement, and enhanced safety. Available in standard (L1) and extended (L2) lengths, it continued to offer both commercial and passenger variants. Built on PSA's Platform 2, it shared its underpinnings with the Peugeot Partner and featured a range of petrol and diesel engines, with the latter being particularly popular for their efficiency. The interior saw significant improvements in material quality and technology, including available features like a touchscreen infotainment system in later models. Safety advanced with standard stability control and available features like a reversing camera. This generation successfully balanced its utilitarian origins with more car-like attributes to appeal to both commercial users and families seeking maximum space efficiency."
+
+  - name: "Third Generation"
+    start_year: 2018
+    end_year: null
+    description: "The current Berlingo is built on PSA's EMP2 platform, shared with various Peugeot, Citroën, and Opel/Vauxhall models. Available in M (4.40m) and XL (4.75m) lengths, it features more SUV-inspired styling while maintaining the practical boxy shape. Passenger models, now branded as Berlingo rather than Multispace, offer five or seven-seat configurations with three independent rear seats. Engine options include various efficient petrol and diesel units, plus a fully electric e-Berlingo variant with approximately 280 km (174 miles) of range. The interior offers a modern design with Citroën's Advanced Comfort philosophy, featuring a digital instrument display, 8-inch touchscreen, and numerous clever storage solutions. Available technology includes head-up display, adaptive cruise control, and automatic emergency braking. The third-generation Berlingo elevates the concept beyond its utilitarian roots with improved refinement and technology while maintaining exceptional space efficiency and practicality."
